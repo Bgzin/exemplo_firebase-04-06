@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721653840747",
+    "project_id": "teste-firebase-noite-157",
+    "storage_bucket": "teste-firebase-noite-157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721653840747:android:164f90b5d82c384cb6ea2e",
+        "android_client_info": {
+          "package_name": "br.com.biagionin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721653840747-me24ai1eemmces2cgpkdunp3icuo8lgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1Wqg4YTcyPDsmX7qmWB8dbDGrxN3Q8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721653840747-me24ai1eemmces2cgpkdunp3icuo8lgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
