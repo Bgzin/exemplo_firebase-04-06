@@ -18,28 +18,28 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
+            const Text(
               'Login',
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
               ),
             ),
-            SizedBox(
+            const SizedBox(
               height: 20,
             ),
             ElevatedButton(
               onPressed: () {
-                 Navigator.pushNamed( context, '/login');
+                Navigator.pushNamed(context, '/login');
               },
-            child: const Text('Login'),
+              child: const Text('Login'),
             ),
-            SizedBox(
+            const SizedBox(
               height: 20,
             ),
             ElevatedButton(
               onPressed: () {
-                    Navigator.pushNamed( context, '/login');
+                Navigator.pushNamed(context, '/register');
               },
               child: const Text('Registro'),
             ),
